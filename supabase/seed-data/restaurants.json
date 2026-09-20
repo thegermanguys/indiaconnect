@@ -1,0 +1,486 @@
+[
+  {
+    "id": "r1",
+    "slug": "amrit-berlin",
+    "name": "Amrit",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Am&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/amrit-berlin-1/900/600",
+      "https://picsum.photos/seed/amrit-berlin-2/900/600",
+      "https://picsum.photos/seed/amrit-berlin-3/900/600"
+    ],
+    "description": "Long-running North Indian restaurant near Oranienburger Straße, known for its large dining room and broad menu of tandoori and curry classics.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Oranienburger Straße 45, 10117 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Oranienburger%20Stra%C3%9Fe%2045%2C%2010117%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": "https://www.amrit.de"
+    },
+    "phone": "+49 30 28884840",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r2",
+    "slug": "maharadscha-berlin",
+    "name": "Maharadscha",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Ma&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/maharadscha-berlin-1/900/600",
+      "https://picsum.photos/seed/maharadscha-berlin-2/900/600",
+      "https://picsum.photos/seed/maharadscha-berlin-3/900/600"
+    ],
+    "description": "Established Indian restaurant in Schöneberg known for generous portions and warm hospitality.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Fuggerstraße 2, 10777 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Fuggerstra%C3%9Fe%202%2C%2010777%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": "https://maharadscha-berlin.de"
+    },
+    "phone": "+49 30 2138826",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r3",
+    "slug": "bombay-cafe-buntys-berlin",
+    "name": "Bombay Café Bunty's",
+    "citySlug": "berlin",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Bo&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/bombay-cafe-buntys-berlin-1/900/600",
+      "https://picsum.photos/seed/bombay-cafe-buntys-berlin-2/900/600",
+      "https://picsum.photos/seed/bombay-cafe-buntys-berlin-3/900/600"
+    ],
+    "description": "Modern Indian menu in a contemporary, unfussy setting in Charlottenburg.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Knesebeckstraße 18, 10623 Berlin",
+    "mapsUrl": "https://maps.google.com/?q=Knesebeckstra%C3%9Fe%2018%2C%2010623%20Berlin",
+    "social": {
+      "instagram": "",
+      "website": "https://www.bombaycafebuntys.de"
+    },
+    "phone": "+49 151 17663986",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r4",
+    "slug": "natraj-munich",
+    "name": "Natraj",
+    "citySlug": "munich",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Na&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/natraj-munich-1/900/600",
+      "https://picsum.photos/seed/natraj-munich-2/900/600",
+      "https://picsum.photos/seed/natraj-munich-3/900/600"
+    ],
+    "description": "Long-standing Munich restaurant serving North Indian tandoori and vegetarian dishes, with garden seating in summer.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Nymphenburger Str. 26, 80336 München",
+    "mapsUrl": "https://maps.google.com/?q=Nymphenburger%20Str.%2026%2C%2080336%20M%C3%BCnchen",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r5",
+    "slug": "saravanaa-bhavan-munich",
+    "name": "Saravanaa Bhavan",
+    "citySlug": "munich",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Sa&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/saravanaa-bhavan-munich-1/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-munich-2/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-munich-3/900/600"
+    ],
+    "description": "Munich branch of the well-known Chennai-founded South Indian vegetarian chain — dosas, idlis, and thalis.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Landshuter Allee 55, 80637 München",
+    "mapsUrl": "https://maps.google.com/?q=Landshuter%20Allee%2055%2C%2080637%20M%C3%BCnchen",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r6",
+    "slug": "royal-india-munich",
+    "name": "Royal India Restaurant",
+    "citySlug": "munich",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Ro&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/royal-india-munich-1/900/600",
+      "https://picsum.photos/seed/royal-india-munich-2/900/600",
+      "https://picsum.photos/seed/royal-india-munich-3/900/600"
+    ],
+    "description": "South Indian specialist known for biryani and crisp dosas in an elegant dining room.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Westendstraße 117, 80339 München",
+    "mapsUrl": "https://maps.google.com/?q=Westendstra%C3%9Fe%20117%2C%2080339%20M%C3%BCnchen",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "South Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r7",
+    "slug": "isha-restaurant-frankfurt",
+    "name": "Isha Restaurant",
+    "citySlug": "frankfurt",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Is&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/isha-restaurant-frankfurt-1/900/600",
+      "https://picsum.photos/seed/isha-restaurant-frankfurt-2/900/600",
+      "https://picsum.photos/seed/isha-restaurant-frankfurt-3/900/600"
+    ],
+    "description": "Rice & curry specialist in Rödelheim, offering North Indian curries, biryani, and thali specialities.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Rödelheimer Str. 33, 60487 Frankfurt am Main",
+    "mapsUrl": "https://maps.google.com/?q=R%C3%B6delheimer%20Str.%2033%2C%2060487%20Frankfurt%20am%20Main",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r8",
+    "slug": "saravanaa-bhavan-frankfurt",
+    "name": "Saravanaa Bhavan",
+    "citySlug": "frankfurt",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Sa&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/saravanaa-bhavan-frankfurt-1/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-frankfurt-2/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-frankfurt-3/900/600"
+    ],
+    "description": "The original German branch of the global South Indian vegetarian chain, near Frankfurt Hauptbahnhof in the Bahnhofsviertel.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Kaiserstr. 55, 60329 Frankfurt am Main",
+    "mapsUrl": "https://maps.google.com/?q=Kaiserstr.%2055%2C%2060329%20Frankfurt%20am%20Main",
+    "social": {
+      "instagram": "",
+      "website": ""
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r9",
+    "slug": "dosa-world-hamburg",
+    "name": "Dosa World",
+    "citySlug": "hamburg",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Do&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/dosa-world-hamburg-1/900/600",
+      "https://picsum.photos/seed/dosa-world-hamburg-2/900/600",
+      "https://picsum.photos/seed/dosa-world-hamburg-3/900/600"
+    ],
+    "description": "South Indian specialist in Harburg known for dosas, idlis, and spicy biryanis, with vegan and halal options.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Lämmertwiete 2, 21073 Hamburg",
+    "mapsUrl": "https://maps.google.com/?q=L%C3%A4mmertwiete%202%2C%2021073%20Hamburg",
+    "social": {
+      "instagram": "",
+      "website": "https://dosaworld.de"
+    },
+    "phone": "",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "South Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r10",
+    "slug": "saravanaa-bhavan-cologne",
+    "name": "Saravanaa Bhavan",
+    "citySlug": "cologne",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Sa&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/saravanaa-bhavan-cologne-1/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-cologne-2/900/600",
+      "https://picsum.photos/seed/saravanaa-bhavan-cologne-3/900/600"
+    ],
+    "description": "Cologne location of the South Indian vegetarian chain, near Heumarkt in the old town.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Heumarkt 65, 50667 Köln",
+    "mapsUrl": "https://maps.google.com/?q=Heumarkt%2065%2C%2050667%20K%C3%B6ln",
+    "social": {
+      "instagram": "https://www.instagram.com/saravanaabhavancologne/",
+      "website": ""
+    },
+    "phone": "+49 221 56935857",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "South Indian",
+      "Vegetarian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r11",
+    "slug": "prince-of-india-stuttgart",
+    "name": "Prince of India",
+    "citySlug": "stuttgart",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Pr&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/prince-of-india-stuttgart-1/900/600",
+      "https://picsum.photos/seed/prince-of-india-stuttgart-2/900/600",
+      "https://picsum.photos/seed/prince-of-india-stuttgart-3/900/600"
+    ],
+    "description": "Traditional Punjabi dishes, tandoor specialities, and curries in central Stuttgart.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Urbanstraße 38, 70182 Stuttgart",
+    "mapsUrl": "https://maps.google.com/?q=Urbanstra%C3%9Fe%2038%2C%2070182%20Stuttgart",
+    "social": {
+      "instagram": "",
+      "website": "https://www.princeofindia.de/stuttgart"
+    },
+    "phone": "+49 711 245108",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "Punjabi",
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  },
+  {
+    "id": "r12",
+    "slug": "mayur-dusseldorf",
+    "name": "Mayur Restaurant",
+    "citySlug": "dusseldorf",
+    "category": "Restaurant",
+    "logo": "https://ui-avatars.com/api/?name=Ma&background=FF9933&color=fff&size=256&bold=true",
+    "photos": [
+      "https://picsum.photos/seed/mayur-dusseldorf-1/900/600",
+      "https://picsum.photos/seed/mayur-dusseldorf-2/900/600",
+      "https://picsum.photos/seed/mayur-dusseldorf-3/900/600"
+    ],
+    "description": "Long-established Indian restaurant in Düsseldorf's Altstadt, known for its tandoor grills.",
+    "openingHours": [
+      {
+        "day": "Mon–Fri",
+        "hours": "See website / call to confirm"
+      },
+      {
+        "day": "Sat–Sun",
+        "hours": "See website / call to confirm"
+      }
+    ],
+    "address": "Hohe Str. 2, 40213 Düsseldorf",
+    "mapsUrl": "https://maps.google.com/?q=Hohe%20Str.%202%2C%2040213%20D%C3%BCsseldorf",
+    "social": {
+      "instagram": "",
+      "website": "https://www.restaurant-mayur.de"
+    },
+    "phone": "+49 211 204000",
+    "rating": 0,
+    "reviewCount": 0,
+    "isPremium": false,
+    "status": "approved",
+    "cuisine": [
+      "North Indian"
+    ],
+    "menuHighlights": [],
+    "delivery": []
+  }
+]

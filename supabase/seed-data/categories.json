@@ -1,0 +1,98 @@
+[
+  {
+    "id": "cat1",
+    "slug": "cricket",
+    "name": "Cricket",
+    "icon": "Zap",
+    "group": "sports",
+    "description": "Weekend leagues, tennis-ball, and hardball clubs."
+  },
+  {
+    "id": "cat2",
+    "slug": "football",
+    "name": "Football",
+    "icon": "CircleDot",
+    "group": "sports",
+    "description": "5-a-side and 11-a-side teams across every city."
+  },
+  {
+    "id": "cat3",
+    "slug": "volleyball",
+    "name": "Volleyball",
+    "icon": "Activity",
+    "group": "sports",
+    "description": "Indoor courts and summer beach tournaments."
+  },
+  {
+    "id": "cat4",
+    "slug": "badminton",
+    "name": "Badminton",
+    "icon": "Feather",
+    "group": "sports",
+    "description": "Casual and competitive club nights."
+  },
+  {
+    "id": "cat5",
+    "slug": "kabaddi",
+    "name": "Kabaddi",
+    "icon": "Users",
+    "group": "sports",
+    "description": "Community kabaddi teams and tournament weekends."
+  },
+  {
+    "id": "cat6",
+    "slug": "regional-associations",
+    "name": "Regional & Cultural Associations",
+    "icon": "Landmark",
+    "group": "community",
+    "description": "Punjabi, Tamil, Telugu, Gujarati, Bengali, Malayali, Kannada and pan-Indian associations preserving language and heritage."
+  },
+  {
+    "id": "cat7",
+    "slug": "temples-gurudwaras",
+    "name": "Temples & Gurudwaras",
+    "icon": "Flame",
+    "group": "community",
+    "description": "Hindu temples, gurudwaras, and prayer groups holding weekly satsang and festival celebrations."
+  },
+  {
+    "id": "cat8",
+    "slug": "dance-music-groups",
+    "name": "Dance & Music Groups",
+    "icon": "Music",
+    "group": "community",
+    "description": "Bollywood, classical, bhangra, and devotional music and dance circles."
+  },
+  {
+    "id": "cat9",
+    "slug": "student-associations",
+    "name": "Student Associations",
+    "icon": "GraduationCap",
+    "group": "community",
+    "description": "University Indian student associations, orientation help, and mentorship."
+  },
+  {
+    "id": "cat10",
+    "slug": "professional-networks",
+    "name": "Professional & IT Networks",
+    "icon": "Briefcase",
+    "group": "community",
+    "description": "Tech, engineering, and business networking groups for working professionals."
+  },
+  {
+    "id": "cat11",
+    "slug": "restaurants",
+    "name": "Indian Restaurants",
+    "icon": "UtensilsCrossed",
+    "group": "food",
+    "description": "Biryani, thalis, dosas, and regional Indian kitchens."
+  },
+  {
+    "id": "cat17",
+    "slug": "events",
+    "name": "Events",
+    "icon": "CalendarDays",
+    "group": "life",
+    "description": "Festivals, tournaments, and meetups."
+  }
+]
